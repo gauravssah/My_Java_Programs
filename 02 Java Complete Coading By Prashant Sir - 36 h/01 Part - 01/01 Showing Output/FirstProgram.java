@@ -6,3 +6,5 @@ public class FirstProgram {
         System.out.print("This will print in same Line.");
     }
 }
+
+
